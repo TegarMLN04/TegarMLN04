@@ -1,4 +1,4 @@
-<h1 align="center">Halo, Semuanya</h1>
+<h1 align="center">Halo, Everyone</h1>
 
 ###
 
@@ -60,16 +60,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/TegarMLN04/TegarMLN04/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TegarMLN04/count.svg?"  />
 </div>
 
 ###
