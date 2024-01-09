@@ -8,15 +8,18 @@
 
 ###
 
-<h1 align="center">I'm Tegar Maulana</h1>
+<h1 align="left">I'm Tegar Maulana</h1>
 
 ###
 
 <p align="left">I am interested in learning a lot of things related to technology especially Website, Database, and Internet of Things</p>
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, C++, REACT, NODEJS**
+- 📫 How to reach me **tegarmaulana1401@gmail.com**
 
 ###
+
+<h2 align="left">Tools and Technologies</h2>
 
 <h4 align="left">- Web Development</h4>
 
