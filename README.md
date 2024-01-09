@@ -1,4 +1,4 @@
-<h1 align="center">Halo, Everyone</h1>
+<h1 align="center">Halo, Semuanya</h1>
 
 ###
 
