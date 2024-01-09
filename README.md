@@ -66,7 +66,7 @@
 
 ###
 
-<h4 align="left">Hubungi saya : </h4>
+<h2 align="left">Connect Me </h2>
 
 ###
 
