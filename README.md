@@ -14,7 +14,7 @@
 
 <p align="left">I am interested in learning a lot of things related to technology especially Website, Database, and Internet of Things</p>
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, C++, REACT, NODEJS**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
 - 📫 How to reach me **tegarmaulana1401@gmail.com**
 
 ###
