@@ -61,3 +61,25 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/TegarMLN04/TegarMLN04/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Hubungi saya</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/tegar-maulana-ba3592243/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/830967459317415967" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/13760241/shirouyaksha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+###
