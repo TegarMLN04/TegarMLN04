@@ -12,11 +12,8 @@
 
 ###
 
-<h1 align="left">Saya Tertarik untuk mempelajari banyak hal mulai dari web development, basis data, dan Internet of Things</h1>
-
-###
-
-<h3 align="left">Berikut beberapa alat dan teknologi yang saya ingin kuasai</h3>
+<p align="left">Saya Tertarik untuk mempelajari banyak hal mulai dari web development, basis data, dan Internet of Things
+</p>
 
 ###
 
