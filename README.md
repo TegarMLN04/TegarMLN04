@@ -8,15 +8,15 @@
 
 ###
 
-<p align="left">Saya Tegar Maulana</p>
+<h1 align="left">Saya Tegar Maulana</h1>
 
 ###
 
-<p align="left">Saya Tertarik untuk mempelajari banyak hal mulai dari web development, basis data, dan Internet of Things</p>
+<h1 align="left">Saya Tertarik untuk mempelajari banyak hal mulai dari web development, basis data, dan Internet of Things</h1>
 
 ###
 
-<h3 align="left">Berikut beberapa alat dan teknologi yang ini saya kuasai</h3>
+<h3 align="left">Berikut beberapa alat dan teknologi yang saya ingin kuasai</h3>
 
 ###
 
@@ -60,12 +60,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TegarMLN04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
