@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/TegarMLN04/TegarMLN04/blob/main/Image.gif"  />
+  <img height="200" src="https://github.com/TegarMLN04/TegarMLN04/blob/main/img/gintoki-hi-gintoki.gif"  />
 </div>
 
 ###
