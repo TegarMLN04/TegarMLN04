@@ -62,13 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TegarMLN04/TegarMLN04/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
-<p align="left">Hubungi saya</p>
+<h4 align="left">Hubungi saya : </h4>
 
 ###
 
