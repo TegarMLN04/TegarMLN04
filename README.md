@@ -1,16 +1,14 @@
 <div align="center">
-  <img height="120" src="https://tenor.com/bU1kR.gif"  />
+  <img height="120" src="https://tenor.com/view/gintoki-hi-gintoki-gintoki-avatar-gif-25943819"  />
 </div>
 
 ###
 
-<p align="left">Hello World!!</p>
+<br clear="both">
+
+<h1 align="center">Hello World!!</h1>
 
 ###
-
-###
-
-
 
 <!--
 **TegarMLN04/TegarMLN04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
