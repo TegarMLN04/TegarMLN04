@@ -1,4 +1,4 @@
-<h1 align="center">Halo, Semuanya</h1>
+<h1 align="center">Hi, Everyone👋 </h1>
 
 ###
 
@@ -8,12 +8,13 @@
 
 ###
 
-<h1 align="left">Saya Tegar Maulana</h1>
+<h1 align="center">I'm Tegar Maulana</h1>
 
 ###
 
-<p align="left">Saya Tertarik untuk mempelajari banyak hal mulai dari web development, basis data, dan Internet of Things
-</p>
+<p align="left">I am interested in learning a lot of things related to technology especially Website, Database, and Internet of Things</p>
+
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, C++, REACT, NODEJS**
 
 ###
 
