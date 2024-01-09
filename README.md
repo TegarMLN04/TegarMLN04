@@ -1,13 +1,4 @@
-
-<div class="tenor-gif-embed" data-postid="21865771" data-share-method="host" data-aspect-ratio="1.50235" data-width="100%"><a href="https://tenor.com/view/hello-gintama-gif-21865771">Hello Gintama GIF</a>from <a href="https://tenor.com/search/hello-gifs">Hello GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-###
-
-<br clear="both">
-
-<h1 align="center">Hello World!!</h1>
-
-###
-
+<iframe src="https://giphy.com/embed/kdM3zfq85XSb6" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gintama-kdM3zfq85XSb6">via GIPHY</a></p>
 <!--
 **TegarMLN04/TegarMLN04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
