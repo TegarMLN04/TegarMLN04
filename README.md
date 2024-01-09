@@ -1,7 +1,5 @@
-<div align="center">
-  <img height="120" src="https://tenor.com/view/gintoki-hi-gintoki-gintoki-avatar-gif-25943819"  />
-</div>
 
+<div class="tenor-gif-embed" data-postid="21865771" data-share-method="host" data-aspect-ratio="1.50235" data-width="100%"><a href="https://tenor.com/view/hello-gintama-gif-21865771">Hello Gintama GIF</a>from <a href="https://tenor.com/search/hello-gifs">Hello GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ###
 
 <br clear="both">
